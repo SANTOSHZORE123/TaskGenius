@@ -1,8 +1,8 @@
-# Food Order Application
+# TaskGenius Application
 
-![Food Order Application](./Food-app.png)
+![Task Tracking Application](./taskimage.png)
 
-This is a Food Order Application created using React.js, Firebase, and JavaScript.
+This is a Task Tracking Application created using React.js, Firebase, and JavaScript.
 
 ## Dependencies
 
@@ -13,7 +13,7 @@ Make sure you have the following dependencies installed before running the appli
 - NPM
 
 ## Hosted Website URL
-https://food-order-app-4li7.onrender.com/
+https://taskgenius.onrender.com
 
 ## Getting Started
 
