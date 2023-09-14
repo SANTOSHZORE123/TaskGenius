@@ -1,0 +1,7 @@
+.ParentContainer{
+    display: flex;
+    width:70vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+}

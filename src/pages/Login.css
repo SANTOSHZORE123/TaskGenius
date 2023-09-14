@@ -1,0 +1,27 @@
+.LoginForm{
+    margin-top: 2rem;
+    width:20rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border:2px solid aliceblue;
+    background-color:aliceblue;
+    border-radius: 10px;
+}
+.submitB{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin: 1rem 0rem 0rem 65%;
+}
+.AddTask{
+    margin: 1rem auto 1rem auto;
+    width:20rem;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border:2px solid aliceblue;
+    background-color:aliceblue;
+    border-radius: 10px;
+}

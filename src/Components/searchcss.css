@@ -1,0 +1,11 @@
+.input{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.input button,input{
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    margin: 0.2rem;
+}
